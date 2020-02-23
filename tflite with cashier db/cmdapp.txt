@@ -1,0 +1,5 @@
+cd\
+activate tensorflow2
+d:
+cd D:\Others (backups and stuff)\Thesis\Python Files\object detection\tflite
+python app.py
